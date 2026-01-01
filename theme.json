@@ -236,8 +236,8 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/meilol-hub/meilol-theme/refs/heads/main/cute.jpg",
-    "blur": 0.25,
-    "alpha": 0.25,
+    "blur": 0,
+    "alpha": 0,
     "size": "cover",
     "position": "center"
   },
