@@ -1,10 +1,10 @@
 {
   "name": "theme",
-  "description": "MEILOL Rem theme",
+  "description": "Made by MEILOL theme",
   "authors": [
     {
-      "name": "wiwiichan",
-      "id": "725075745671479296"
+      "name": "Meilol",
+      "id": "1405593556642566214"
     }
   ],
   "semanticColors": {
@@ -236,7 +236,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/meilol-hub/meilol-theme/refs/heads/main/cute.jpg",
-    "blur": 0.5,
+    "blur": 0.25,
     "alpha": 0.25,
     "size": "cover",
     "position": "center"
